@@ -6,6 +6,9 @@ Título: Aplicação de Técnicas de Data Science no Desenvolvimento de um Siste
 
 
 Descrição dos arquivos:
+
   ProjMaintenance-env.txt -> Este arquivo contém as especificações (pacotes e bibliotecas) do ambiente de desenvolvimento.
+  
   Data_Failure_Code.csv   -> Este arquivo contém os registros históricos de falhas de sistemas de aeronaves.
+  
   Data_Removal_Code.csv   -> Este arquivo contém os registros históricos de remoções de componentes de sistemas de aeronaves. 
