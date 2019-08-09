@@ -1,0 +1,12 @@
+Aircraft,Flight Phase,Date,Fault Text,Report Maintenance
+0,2640,,2006-05-14 16:19:00,FDE_Outhers02,
+1,2640,Enroute Cruise,2006-07-01 15:17:00,FDE_B_System3,RMA_A_System3
+2,2640,Enroute Cruise,2006-07-01 15:17:00,FDE_C_System3,RMA_A_System3
+3,2640,Enroute Cruise,2006-07-02 04:48:00,FDE_B_System3,RMA_A_System3
+4,2640,Enroute Cruise,2006-07-02 04:48:00,FDE_C_System3,RMA_A_System3
+5,2640,Descent,2006-07-07 18:54:00,FDE_B_System3,RMA_A_System3
+6,2640,Descent,2006-07-07 18:54:00,FDE_C_System3,RMA_A_System3
+7,2640,Descent,2006-07-29 13:11:00,FDE_C_System4,RMA_A_System4
+8,2640,Descent,2006-07-29 13:11:00,FDE_C_System4,RMA_B_System4
+9,2640,Descent,2006-07-29 13:11:00,FDE_B_System4,RMA_A_System4
+10,2640,Descent,2006-07-29 13:11:00,FDE_B_System4,RMA_B_System4

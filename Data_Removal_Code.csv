@@ -1,0 +1,12 @@
+Aircraft,Component,System,Date,Reason,Time Hours,Time Cycles
+0,1140,MME_Component_A,System1,2006-05-29,3,118123,15961
+1,1140,MME_Component_A,System1,2006-05-29,3,118123,15961
+2,1140,MME_Component_B,System1,2006-05-29,3,1092,139
+3,1140,MME_Component_B,System3,2006-06-24,3,312,37
+4,1140,MME_Component_B,System3,2006-07-10,3,118698,16028
+5,1140,MME_Component_B,System3,2006-07-10,3,263,30
+6,1140,MME_Component_B,System1,2006-08-13,3,7158,870
+7,1140,MME_Component_C, ,2006-08-13,4,8627,1053
+8,1140,MME_Component_A,System2,2006-08-14,3,10363,1257
+9,1140,MME_Component_D, ,2007-03-28,3,7943,954
+10,1140,MME_Component_E, ,2007-04-04,3,40509,5069
