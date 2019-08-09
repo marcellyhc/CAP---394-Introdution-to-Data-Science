@@ -4,6 +4,7 @@ Projeto final da disciplina Introduction to Data Science - INPE 2019/2
 
 Título: Aplicação de Técnicas de Data Science no Desenvolvimento de um Sistema para Manutenção Aeronáutica Baseada em Condição.
 
+Linguagem de programação: Python
 
 Descrição dos arquivos:
 
